@@ -2,7 +2,7 @@
 
 # Stock Market Comparison Analysis using Web Scraping and Python
 This project involves a methodical examination of multiple stocks within the stock market. By analyzing the performance of various stocks, the project aims to gain insights into their behavior relative to each other and the broader market. This analysis will assists investors, financial analysts, and decision-makers in making informed investment decisions about which stocks to buy, hold, or sellbased on financial metrics and market conditions.
-* Python Code [Here]()
+* Python Code [Here](https://github.com/Mayreeobi/Stock-Market-Analysis/blob/main/most_active_stock.ipynb)
 
 ## Objectives:
 - Scrape the most active stock symbols from Yahoo Finance.
@@ -19,6 +19,15 @@ This project involves a methodical examination of multiple stocks within the sto
 - pandas: For data manipulation and analysis.
 - datetime: For handling date and time.
 - matplotlib.pyplot: For plotting and visualization.
+
+## Dataset Description: 
+- Date: represent the date or time stamp of the data point, indicating when the data was scraped.
+- Symbol: Represent the stock's symbol or ticker
+- Open: The opening price of the stock at the begining of the trading day.
+- High: The highest price at which the stock traded during trading day.
+- Low: The lowest price at which the stock traded during the trading day.
+- Close: The closing price of the stock at the end of the trading day.
+- Volumne: The total number of shares traded during the trading day.
 
 ## Analysis Metrics
 - Daily Return: The daily percentage change in the stock’s value.
