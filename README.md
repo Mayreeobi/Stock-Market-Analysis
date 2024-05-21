@@ -58,7 +58,8 @@ Extend the analysis period beyond one day to capture more comprehensive trends.
 Perform a fundamental analysis of the companies to understand their financial health and growth prospects.
 
 ## Limitation
-The scraping was done for just a day, making it difficult to calculate moving averages like MA5 or MA10.
+Short Time Frame: The scraping was done for just a day, making it difficult to calculate moving averages like MA5 or MA10.
+
 
 
 
